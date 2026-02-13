@@ -1,0 +1,14 @@
+meta:
+  schema-version: 0.1.0
+  created-on: "2026-02-13T07:15:56Z"
+  cli-version: v0.3.238
+projects:
+  1D9C75ED3CED5A11B022C145B8B2D639941EB7DA:
+    targets:
+      - poetry.lock
+    manager:
+      ecosystem: python
+      name: pip
+      version: 26.0.1
+      class: manifest
+    overrides: {}
